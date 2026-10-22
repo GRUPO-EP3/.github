@@ -20,9 +20,9 @@ Oferecemos soluções integradas em:
 
 ## Tecnologia aplicada à gestão
 
-Trabalhamos com automação de processos, integração de sistemas, análise de dados e implantação de sistemas de gestão, incluindo soluções como Protheus/TOTVS, Power BI e RD Station.
+Conectamos tecnologia e conhecimento de negócio para apoiar a evolução das empresas, ampliar sua capacidade de gestão e criar novas possibilidades de crescimento.
 
-Nosso espaço no GitHub apoia o desenvolvimento de ferramentas, integrações e iniciativas digitais voltadas à eficiência operacional e à evolução da gestão empresarial.
+Nosso espaço no GitHub reúne iniciativas digitais que traduzem essa visão em soluções para os desafios dos negócios.
 
 ## Conheça o Grupo EP3
 
